@@ -8,14 +8,12 @@ export const Home = () => {
     >
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-            Hi, I'm Pedro Tech
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-tight">
+            Hi, I&apos;m Sohana Afrin
           </h1>
 
-          <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I’m a full-stack developer who loves crafting clean, scalable web
-            applications. My goal is to build solutions that offer both
-            exceptional performance and a delightful user experience.
+          <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
+            I’m a UI/UX designer based in Dhaka, Bangladesh, passionate about crafting intuitive interfaces and seamless user experiences. I specialize in user research, wireframing, and designing solutions that prioritize engagement and usability.
           </p>
           <div className="flex justify-center space-x-4">
             <a
